@@ -10,3 +10,7 @@ Started by [Wes Bos](https://wesbos.com) in December 2016, *[JavaScript 30](http
 - No Boilerplate
 
 I'm following along with some of my friends, just to have fun :)
+
+## Challenges
+
+[x] [01 - Drum Kit](01-drumkit)
