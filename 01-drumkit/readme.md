@@ -10,3 +10,5 @@ I switched things around:
 - I listen for any transition changes to remove the class.
 
 Time: 10min of js, 50min of CSS. I'm a terrible visual designer.git add
+
+Sounds [CC BY](https://creativecommons.org/licenses/by/2.0/legalcode) by (Samulis)[https://www.freesound.org/people/Samulis] on [freesound.org](https://www.freesound.org)
