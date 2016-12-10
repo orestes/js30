@@ -1,4 +1,6 @@
-# 01 - drum kit
+# 01 - drum kit 
+
+[demo](https://orestes.github.io/js30/01-drumkit/)
 
 I switched things around:
 

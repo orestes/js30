@@ -13,4 +13,4 @@ I'm following along with some of my friends, just to have fun :)
 
 ## Challenges
 
-[x] [01 - Drum Kit](01-drumkit)
+- 01 - Drum Kit [demo](https://orestes.github.io/js30/01-drumkit/) [source](01-drumkit)
